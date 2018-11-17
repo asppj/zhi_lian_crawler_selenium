@@ -1,10 +1,10 @@
 class Dev():
     mongo_server = {
-        "host": "server.asppj.top",
+        "host": "你的host",
         "port": 27017,
         "db": "zhilian",
-        "user": "zhilian_db",
-        "pwd": "zhilian_db123"
+        "user": "你的",
+        "pwd": "你的"
     }
 
 
